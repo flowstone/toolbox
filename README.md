@@ -5,61 +5,60 @@
 ## Window平台
 
 ### 编辑器
-* ** Atom **
-* ** C-Free **
-* ** Sublime Text3 **
-* ** WebStorm **
-* ** PhpStorm **
-* ** Notepad++ **
-* ** EditPlus **
+* **Atom**
+* **C-Free**
+* **Sublime Text3**
+* **WebStorm**
+* **PhpStorm**
+* **Notepad++**
+* **EditPlus**
 
 ### 翻墙神器
-* ** Shadowsocks **
-* ** Opera **
-* ** SoftEther **
-* ** FreeGaty **
+* **Shadowsocks**
+* **Opera**
+* **SoftEther**
+* **FreeGaty**
 
 ### 思维导图
-* ** XMind **
+* **XMind**
 
 ### 数据库相关
-* ** Navicat Premium **
+* **Navicat Premium**
 
 ### 截图相关
-* ** GifCam **
-* ** ScreenToGif **
-* ** Snipaste **
-* ** FastStone Capture **
+* **GifCam**
+* **ScreenToGif**
+* **Snipaste**
+* **FastStone Capture**
 
 ### 代码对比
-* ** Beyond Compare **
+* **Beyond Compare**
 
 ### FTP
-* ** FileZilla FTP **
-* ** SecureCRT **
+* **FileZilla FTP**
+* **SecureCRT**
 
 ### 虚拟机
-* ** VMware Player **
+* **VMware Player**
 
 ## Android平台
 
 ### 交通位置
-* ** 百度地图 **
+* **百度地图**
 
 ### 金融理财
-* ** 她理财 **
-* ** 网易有钱 **
-* ** 招商银行 **
+* **她理财**
+* **网易有钱**
 
 ### 学习教育
-* ** Translator **
-* ** 有道词典 **
+* **Translator**
+* **有道词典**
 
 ### 通讯社交
-* ** 来电 **
-* ** 脉脉 **
+* **来电**
+* **脉脉**
 
 ### 开发者
-* ** 开发者头条 **
-* ** 牛客 **
-* ** 掘金 **
+* **开发者头条**
+* **牛客**
+* **掘金**
