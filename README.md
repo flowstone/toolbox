@@ -37,6 +37,7 @@
 ### FTP
 * **FileZilla FTP**
 * **SecureCRT**
+* **PuTTY**
 
 ### 虚拟机
 * **VMware Player**
@@ -57,6 +58,12 @@
 ### 通讯社交
 * **来电**
 * **脉脉**
+
+### 运动健康
+* **LifeKit**
+
+### 游戏
+* **Solitaire**
 
 ### 开发者
 * **开发者头条**
