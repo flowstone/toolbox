@@ -15,7 +15,6 @@
 
 ### 翻墙神器
 * **Shadowsocks**
-* **Opera**
 * **SoftEther**
 * **FreeGaty**
 
