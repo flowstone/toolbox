@@ -10,4 +10,5 @@
 ### jQuery
 * **layer** : jQuery弹出层插件
 * **jQuery Validate** : 表单验证插件
+* **fullPage.js** : 全屏滚动插件
 
