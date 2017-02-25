@@ -11,4 +11,5 @@
 * **layer** : jQuery弹出层插件
 * **jQuery Validate** : 表单验证插件
 * **fullPage.js** : 全屏滚动插件
+* **Unslider** : 一个超小的 jQuery轮播(slider)插件
 
