@@ -92,6 +92,9 @@
 * **KMplayer Pro**
 * **MX播放器**
 * **Shazam**
+* **FilmOn Live**
+* **Pluto TV**
+* **Tubi TV**
 
 ### 办公
 * **Outlook**
