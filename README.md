@@ -95,9 +95,14 @@
 * **FilmOn Live**
 * **Pluto TV**
 * **Tubi TV**
+* **泰捷视频**
 
 ### 办公
 * **Outlook**
+
+### 思维导图
+* **Mindly**
+
 
 ### 其它
 * **花生地铁WiFi**
