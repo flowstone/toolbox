@@ -59,6 +59,7 @@
 * **来电**
 * **脉脉**
 * **Facebook**
+* **Messenger**
 
 ### 运动健康
 * **LifeKit**
