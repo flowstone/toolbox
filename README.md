@@ -113,3 +113,4 @@
 * **OneNote**
 * **LastPass**
 * **薄暮微光**
+* **Super Cleaner**
