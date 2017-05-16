@@ -118,6 +118,4 @@
 * **许多卡**
 * **百度云盘**
 * **OneNote**
-* **LastPass**
-* **薄暮微光**
-* **Super Cleaner**
+
