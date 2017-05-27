@@ -104,6 +104,8 @@
 * **Outlook**
 * **OneNote**
 * **to-do**
+* **扫描全能王**
+* **TinyScanner**
 * **KeePass2Android**
 
 ### 系统相关
