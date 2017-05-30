@@ -108,6 +108,7 @@
 * **扫描全能王**
 * **TinyScanner**
 * **KeePass2Android**
+* **TextNow(美国手机号)**
 
 ### 网盘
 * **MEGA(50G，推荐)**
