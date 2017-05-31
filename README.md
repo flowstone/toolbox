@@ -85,6 +85,7 @@
 * **Chrome**
 * **Gmail**
 * **照片扫描仪**
+* **Google翻译**
 
 ### 博客
 * **Blogger**
