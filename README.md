@@ -118,7 +118,6 @@
 
 
 ### 系统相关
-* **LastPass**
 * **薄暮微光**
 * **Super Cleaner**
 
