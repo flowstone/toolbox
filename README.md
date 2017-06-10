@@ -83,7 +83,6 @@
 ### Google全家桶
 * **Keep**
 * **Snapseed**
-* **Google**
 * **Chrome**
 * **Gmail**
 * **照片扫描仪**
