@@ -62,6 +62,7 @@
 * **Facebook**
 * **Twitter**
 * **Messenger**
+* **Instagram**
 
 ### 运动健康
 * **LifeKit**
