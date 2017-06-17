@@ -10,6 +10,7 @@
 * **Sublime Text3**
 * **WebStorm**
 * **PhpStorm**
+* **MyEclipse**
 * **Notepad++**
 * **EditPlus**
 
