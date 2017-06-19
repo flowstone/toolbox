@@ -8,7 +8,6 @@
 * **Atom**
 * **C-Free**
 * **Sublime Text3**
-* **WebStorm**
 * **PhpStorm**
 * **Eclipse**
 * **MyEclipse**
