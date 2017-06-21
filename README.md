@@ -98,7 +98,7 @@
 
 ### 影音
 * **网易云音乐**
-* **KMplayer Pro**
+* **KMplayer**
 * **MX播放器**
 * **Shazam**
 * **FilmOn Live**
