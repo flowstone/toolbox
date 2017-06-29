@@ -29,7 +29,7 @@
 * **GifCam**
 * **ScreenToGif**
 * **Snipaste**
-* **FastStone Capture**
+* **FastStone Capture(带录屏工具)**
 
 ### 代码对比
 * **Beyond Compare**
