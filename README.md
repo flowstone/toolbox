@@ -6,13 +6,18 @@
 
 ### 编辑器
 * **Atom**
+* **Visual Studio Code**
 * **C-Free**
 * **Sublime Text3**
+* **Notepad++**
+* **EditPlus**
+
+### IDE
 * **PhpStorm**
 * **Eclipse**
 * **MyEclipse**
-* **Notepad++**
-* **EditPlus**
+* **WebStorm 2016.1.2**
+* **IntelliJ IDEA 2017.1.4**
 
 ### 翻墙神器
 * **Shadowsocks**
@@ -21,6 +26,8 @@
 
 ### 思维导图
 * **XMind**
+* **MindManager16(常用)** 
+* **亿图图示专家**
 
 ### 数据库相关
 * **Navicat Premium**
@@ -42,11 +49,20 @@
 ### 虚拟机
 * **VMware Player**
 
+### 网络
+* **Shadowsocks**
+* **Teleport Ultra**
+
+### 办公软件
+* **Anki**
+* **KeePass2**
+
 ## Android平台
 
 ### 交通位置
 * **百度地图**
 * **天眼查**
+* **上海实时公交**
 
 ### 金融理财
 * **她理财**
@@ -82,6 +98,7 @@
 * **Remote Desktop**
 * **AirDroid**
 * **Compiler**
+* **Stack Overflow**
 
 ### Google全家桶
 * **Keep**
@@ -90,6 +107,7 @@
 * **Gmail**
 * **照片扫描仪**
 * **Google翻译**
+* **谷歌网盘**
 
 ### 博客
 * **Blogger**
@@ -114,6 +132,7 @@
 * **TinyScanner**
 * **KeePass2Android**
 * **TextNow(美国手机号)**
+* **Keepass2Anroid(重要)**
 
 ### 网盘
 * **MEGA(50G，推荐)**
@@ -127,15 +146,21 @@
 
 ### VPN
 * **蓝灯**
-
+* **影梭**　
 
 ### 思维导图
 * **Mindly**
+* **Mindjet Maps**
 
 
 ### 其它
 * **花生地铁WiFi**
 * **WiFi万能钥匙**
 * **许多卡**
-* **安歆乐活**
 * **豆果美食**
+
+
+
+
+## 更新说明
+* **2017-08-12 更新软件列表,增加Java工具包文档**
