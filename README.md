@@ -57,6 +57,9 @@
 * **Anki**
 * **KeePass2**
 
+### 手册
+* **Zeal**
+
 ## Android平台
 
 ### 交通位置
