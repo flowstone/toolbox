@@ -31,6 +31,8 @@
 
 ### 数据库相关
 * **Navicat Premium**
+* **SQLyog**
+* **plsqldev**
 
 ### 截图相关
 * **GifCam**
