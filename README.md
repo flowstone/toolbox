@@ -58,6 +58,7 @@
 ### 办公软件
 * **Anki**
 * **KeePass2**
+* **Listary**
 
 ### 手册
 * **Zeal**
