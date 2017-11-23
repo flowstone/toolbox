@@ -59,6 +59,7 @@
 * **Anki**
 * **KeePass2**
 * **Listary**
+* **钉钉**
 
 ### 手册
 * **Zeal**
