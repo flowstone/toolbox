@@ -47,6 +47,7 @@
 * **FileZilla FTP**
 * **SecureCRT**
 * **PuTTY**
+* **XFTP**
 
 ### 虚拟机
 * **VMware Player**
