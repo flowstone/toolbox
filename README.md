@@ -103,8 +103,8 @@
 
 ### 运动健康
 * **LifeKit**
-* **Bong**
-* **ofo共享单车**
+* **Bong(已破产)**
+* **ofo共享单车(已破产)**
 * **摩拜单车**
 * **悦动圈**
 
@@ -190,6 +190,53 @@
 * **Quora**
 * **Inbox**
 
+## Mac OS
+### 传输工具
+* AirDroid
+* AirServer
+
+### 开发工具
+* Another Redis Desktop Manager
+* Apifox
+* Camunda Modeler
+* Charles
+* CrossFTP
+* DataGrip
+* DBeaver
+* ExpanDrive
+* Navicat Premium
+* Postman
+* rdm
+* SmartSVN
+* SoapUI
+* Sequel Pro
+
+### 镜像工具
+* BalenaEtcher
+
+### VPN
+* Check Point Firewall
+* ClashX
+* Endpoint Security VPN
+* FortiClient
+* EasyConnect
+* OpenVPN
+* ShadowsocksX-NG
+* V2rayV
+* ZeroTier One
+
+### 视频工具
+* EVCapture(屏幕录制，无时长限制)
+* OBS
+* VLC
+
+### 虚拟货币
+* Ledger Live
+
+### 其它工具
+* VNote
+* Joplin
 
 ## 更新说明
 * **2017-08-12 更新软件列表,增加Java工具包文档**
+* **2022-04-29 更新Mac端软件列表**
